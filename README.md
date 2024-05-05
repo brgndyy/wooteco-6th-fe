@@ -69,5 +69,3 @@
 3. [리액트에서의 Fiber Architecture](https://brgndy.me/posts/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98-Fiber-Architecture)
 
 4. [파생 상태(Derived State)에 관하여](<https://brgndy.me/posts/%ED%8C%8C%EC%83%9D-%EC%83%81%ED%83%9C(Derived-State)%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC>)
-
-## - 그 외 블로그 글 포스트
