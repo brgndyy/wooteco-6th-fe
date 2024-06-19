@@ -6,10 +6,10 @@
 
 | 프로젝트          | 페어                                   | 1 단계                                                                | 2 단계                                                                               | 리뷰어                                   |
 | ----------------- | -------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------- |
-| 자동차 경주 게임  | [@soiha](https://github.com/soi-ha)    | [PR](https://github.com/woowacourse/javascript-racingcar/pull/271)    | [PR](https://github.com/woowacourse/javascript-racingcar/pull/294#event-11849507879) | [@haru](https://github.com/365kim)       |
-| 로또              | [@lurgi](https://github.com/lurgi)     | [PR](https://github.com/woowacourse/javascript-lotto/pull/263)        | [PR](https://github.com/woowacourse/javascript-lotto/pull/296)                       | [@kyle](https://github.com/GwangYeol-Im) |
-| 점심 뭐 먹지      | [@hailey](https://github.com/healim01) | [PR](https://github.com/woowacourse/javascript-lunch/pull/104)        | [PR](https://github.com/woowacourse/javascript-lunch/pull/145)                       | [@Jbee](https://github.com/uk960214)     |
-| 영화 리뷰 - 웹 앱 | [@river](https://github.com/0jenn0)    | [PR](https://github.com/woowacourse/javascript-movie-review/pull/101) | [PR](https://github.com/woowacourse/javascript-movie-review/pull/140)                | [@zig](https://github.com/zigsong)       |
+| 자동차 경주 게임  | [@소하](https://github.com/soi-ha)     | [PR](https://github.com/woowacourse/javascript-racingcar/pull/271)    | [PR](https://github.com/woowacourse/javascript-racingcar/pull/294#event-11849507879) | [@하루](https://github.com/365kim)       |
+| 로또              | [@러기](https://github.com/lurgi)      | [PR](https://github.com/woowacourse/javascript-lotto/pull/263)        | [PR](https://github.com/woowacourse/javascript-lotto/pull/296)                       | [@카일](https://github.com/GwangYeol-Im) |
+| 점심 뭐 먹지      | [@헤일리](https://github.com/healim01) | [PR](https://github.com/woowacourse/javascript-lunch/pull/104)        | [PR](https://github.com/woowacourse/javascript-lunch/pull/145)                       | [@블링](https://github.com/uk960214)     |
+| 영화 리뷰 - 웹 앱 | [@리버](https://github.com/0jenn0)     | [PR](https://github.com/woowacourse/javascript-movie-review/pull/101) | [PR](https://github.com/woowacourse/javascript-movie-review/pull/140)                | [@지그](https://github.com/zigsong)      |
 
 ### - 관련 블로그 기술 포스트
 
@@ -53,12 +53,14 @@
 
 ---
 
-## - LEVEL 2 (2024-04-16 ~ )
+## - LEVEL 2 (2024-04-16 ~ 2024-06-14)
 
-| 프로젝트      | 페어                                    | 1 단계                                                       | 2 단계                                                       | 리뷰어                                |
-| ------------- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------- |
-| 페이먼츠      | [@낙타](https://github.com/Largopie)    | [PR](https://github.com/woowacourse/react-payments/pull/343) | [PR](https://github.com/woowacourse/react-payments/pull/371) | [@haru](https://github.com/365kim)    |
-| 페이먼츠 모듈 | [@tenten](https://github.com/chlwlstlf) | [PR](https://github.com/woowacourse/react-modules/pull/4)    | [PR]()                                                       | [@sally](https://github.com/liswktjs) |
+| 프로젝트      | 페어                                       | 1 단계                                                              | 2 단계                                                               | 리뷰어                                   |
+| ------------- | ------------------------------------------ | ------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------- |
+| 페이먼츠      | [@낙타](https://github.com/Largopie)       | [PR](https://github.com/woowacourse/react-payments/pull/343)        | [PR](https://github.com/woowacourse/react-payments/pull/371)         | [@하루](https://github.com/365kim)       |
+| 페이먼츠 모듈 | [@텐텐](https://github.com/chlwlstlf)      | [PR](https://github.com/woowacourse/react-modules/pull/4)           | [PR](https://github.com/woowacourse/react-modules/pull/46)           | [@샐리](https://github.com/liswktjs)     |
+| 장바구니      | [@마스터위](https://github.com/Jaymyong66) | [PR](https://github.com/woowacourse/react-shopping-cart/pull/251)   | [PR](https://github.com/woowacourse/react-shopping-cart/pull/286)    | [@브콜](https://github.com/Tanney-102)   |
+| 상품 목록     | [@웨디](https://github.com/pakxe)          | [PR](https://github.com/woowacourse/react-shopping-products/pull/3) | [PR](https://github.com/woowacourse/react-shopping-products/pull/55) | [@카일](https://github.com/GwangYeol-Im) |
 
 ### - 관련 블로그 기술 포스트
 
@@ -69,3 +71,7 @@
 3. [리액트에서의 Fiber Architecture](https://brgndy.me/posts/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98-Fiber-Architecture)
 
 4. [파생 상태(Derived State)에 관하여](<https://brgndy.me/posts/%ED%8C%8C%EC%83%9D-%EC%83%81%ED%83%9C(Derived-State)%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC>)
+
+5. [Wai-label 이란?](https://brgndy.me/posts/Wai-aria-%EB%9E%80-)
+
+6. [직접 토스트 라이브러리를 배포해보며 비교 해보는 Pub-sub 패턴과 Observer 패턴](https://brgndy.me/posts/%EC%A7%81%EC%A0%91-%ED%86%A0%EC%8A%A4%ED%8A%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EB%B0%B0%ED%8F%AC%ED%95%B4%EB%B3%B4%EB%A9%B0-%EB%B9%84%EA%B5%90-%ED%95%B4%EB%B3%B4%EB%8A%94-Pub-sub-%ED%8C%A8%ED%84%B4%EA%B3%BC-Observer-%ED%8C%A8%ED%84%B4)
